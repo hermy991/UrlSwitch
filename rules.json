@@ -1,0 +1,8 @@
+{
+  "8000": {
+          "datacredito.com.do": "http://datacredito.com.do/",
+          "datacredito": "https://datacredito.com.do/",
+          "jsonplaceholder.typicode.com": "https://jsonplaceholder.typicode.com/",
+          "copernicus.discomap.eea.europa.eu": "https://copernicus.discomap.eea.europa.eu/arcgis/rest/services/Corine/CLC2018_WM/MapServer/0?f=json"
+  }
+}
